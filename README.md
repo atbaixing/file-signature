@@ -12,7 +12,7 @@ $ pip install urllib, bs4, json, ssl, lxml
 # execute script
 
 ```bash
-$ python getAllurl.py
+$ python getAllUrl.py
 $ python index.py
 $ python data.py
 ```
